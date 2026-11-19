@@ -1,2 +1,4 @@
 # -Robot-progect
-Robot . Svg
+<div align="center">
+  <img src="./face.svg" alt="Face" />
+</div>
