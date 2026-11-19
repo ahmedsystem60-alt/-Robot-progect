@@ -1,4 +1,13 @@
 # -Robot-progect
 <div align="center">
-  <img src="./face.svg" alt="Face" />
+
+```text
+     ╭───────────╮
+   ╭─┤  ◉     ◉  ├─╮
+   │ │    ___    │ │
+   ╰─┤   (___)   ├─╯
+     ╰─────┬─────╯
+           │
+```
+
 </div>
